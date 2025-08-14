@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Gradle: org.jetbrains:annotations:23.0.0">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/8cc20c07506ec18e0834947b84a864bfc094484e/annotations-23.0.0.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.9.0">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.9.0/9beade4c1c1569e4f36cbd2c37e02e3e41502601/kotlinx-coroutines-core-jvm-1.9.0.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.10.1">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.10.1/6c9ff773f9aa842b91d1f2fe4658973252ce2428/junit-jupiter-engine-5.10.1.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-api:5.10.1">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.10.1/eb90c7d8bfaae8fdc97b225733fcb595ddd72843/junit-jupiter-api-5.10.1.jar" />
+  </library>
+  <library name="Gradle: org.junit.platform:junit-platform-engine:1.10.1">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.10.1/f32ae4af74fde68414b8a3d2b7cf1fb43824a83a/junit-platform-engine-1.10.1.jar" />
+  </library>
+  <library name="Gradle: org.junit.platform:junit-platform-commons:1.10.1">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.10.1/2bfcd4a4e38b10c671b6916d7e543c20afe25579/junit-platform-commons-1.10.1.jar" />
+  </library>
+  <library name="Gradle: org.neo4j:neo4j-cypher-dsl:2024.4.1">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-cypher-dsl/2024.4.1/f18b794dfcd80db19eece9912c9450bf2499c06c/neo4j-cypher-dsl-2024.4.1.jar" />
+  </library>
+  <library name="Gradle: org.junit.platform:junit-platform-launcher:1.10.1">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.10.1/ce85bf5e38bee0989ded9bd468dd4ff78dc0cfa8/junit-platform-launcher-1.10.1.jar" />
+  </library>
+  <library name="Gradle: org.opentest4j:opentest4j:1.3.0">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/152ea56b3a72f655d4fd677fc0ef2596c3dd5e6e/opentest4j-1.3.0.jar" />
+  </library>
+  <library name="Gradle: com.apollographql.apollo:apollo-api-jvm:4.1.1">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/com.apollographql.apollo/apollo-api-jvm/4.1.1/91177694301cec9791a3100f10e7ee82cde26e6e/apollo-api-jvm-4.1.1.jar" />
+  </library>
+  <library name="Gradle: com.apollographql.apollo:apollo-mpp-utils-jvm:4.1.1">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/com.apollographql.apollo/apollo-mpp-utils-jvm/4.1.1/7aa165a617325680a7794439891a76a671a505e0/apollo-mpp-utils-jvm-4.1.1.jar" />
+  </library>
+  <library name="Gradle: com.apollographql.apollo:apollo-runtime-jvm:4.1.1">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/com.apollographql.apollo/apollo-runtime-jvm/4.1.1/487fe52834089e9f8e9d132c14ccd48b5f765622/apollo-runtime-jvm-4.1.1.jar" />
+  </library>
+  <library name="Gradle: com.benasher44:uuid-jvm:0.8.2">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/com.benasher44/uuid-jvm/0.8.2/f9a2eba1cc4cb9efa3b86407c9bb9b1b7d8522a6/uuid-jvm-0.8.2.jar" />
+  </library>
+  <library name="Gradle: com.google.code.gson:gson:2.12.1">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.12.1/4e773a317740b83b43cfc3d652962856041697cb/gson-2.12.1.jar" />
+  </library>
+  <library name="Gradle: com.google.errorprone:error_prone_annotations:2.36.0">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.36.0/227d4d4957ccc3dc5761bd897e3a0ee587e750a7/error_prone_annotations-2.36.0.jar" />
+  </library>
+  <library name="Gradle: com.squareup.okhttp3:okhttp:4.12.0">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.12.0/2f4525d4a200e97e1b87449c2cd9bd2e25b7e8cd/okhttp-4.12.0.jar" />
+  </library>
+  <library name="Gradle: com.squareup.okio:okio-jvm:3.9.0">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-jvm/3.9.0/eaa4f7858a1e80908b1a2e861e662edd7c6cbbb5/okio-jvm-3.9.0.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-reflect:2.1.0">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/2.1.0/dc3753b59b67d79b7d2f546d51e22a0ec1f082d8/kotlin-reflect-2.1.0.jar" />
+  </library>
+  <library name="Gradle: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.21">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.8.21/67f57e154437cd9e6e9cf368394b95814836ff88/kotlin-stdlib-jdk8-1.8.21.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.21">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.8.21/7473b8cd3c0ef9932345baf569bc398e8a717046/kotlin-stdlib-jdk7-1.8.21.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-test-junit5:2.1.0">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit5/2.1.0/3d386bb97b74923e498d46193f7a380de10734a4/kotlin-test-junit5-2.1.0.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.1.0">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.1.0/85f8b81009cda5890e54ba67d64b5e599c645020/kotlin-stdlib-2.1.0.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:atomicfu-jvm:0.26.0">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-jvm/0.26.0/8886a0c1867542c419c6f8ce149a8af13b7bb09/atomicfu-jvm-0.26.0.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-test:2.1.0">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test/2.1.0/bab38f61fdb1c90a68fce9666b3f9fe419aeef72/kotlin-test-2.1.0.jar" />
+  </library>
+  <library name="Gradle: com.apollographql.apollo:apollo-annotations-jvm:4.1.1">
+    <archive path="C:/Users/Philipp/.gradle/caches/modules-2/files-2.1/com.apollographql.apollo/apollo-annotations-jvm/4.1.1/f09163c7fa170b7aa12cfd44150f1265ca916e11/apollo-annotations-jvm-4.1.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
